@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 public class main1 {
+    //H
     public static void main(String[] args) {
         ArrayList lista = new ArrayList();
         Iterator iterador;

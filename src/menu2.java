@@ -10,7 +10,7 @@ public class menu2 {
             try {
                 System.out.println(
                         "1. Añadir nombre\n" +
-                                "2. Quitar nombre\n" +
+                               "2. Quitar nombre\n" +
                                 "3. Listar nombre\n" +
                                 "4. Buscar nombre\n" +
                                 "5. Salir"
